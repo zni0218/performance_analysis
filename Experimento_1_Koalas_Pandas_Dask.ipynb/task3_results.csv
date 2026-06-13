@@ -1,0 +1,4 @@
+Biblioteca,Tempo Join (s),Performance
+Pandas,2.337975263595581,---
+Dask,2.482142448425293,---
+Koalas,0.6970443725585938, VENCEDOR

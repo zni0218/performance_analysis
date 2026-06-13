@@ -1,0 +1,5 @@
+Biblioteca,Tempo Escrita (s),Tipo de Saída,Performance
+Pandas,6.667231321334839,Ficheiro único, VENCEDOR
+Dask,11.463626861572266,Pasta (particionada),---
+Koalas,32.11297535896301,Pasta (particionada),---
+Modin,9.390803813934326,Ficheiro único,---

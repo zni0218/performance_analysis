@@ -1,0 +1,4 @@
+,Modelo,Tipo,RMSE,MAE,R²,Accuracy,F1,Tempo treino (s)
+0,XGBRegressor,Regressão,4.3196,1.2865,0.9369,,,4.47
+1,LogisticRegression,Classificação,,,,0.9483,0.9483,4.07
+2,LogisticRegression (Iris),Classificação,,,,0.9333,0.9333,0.08

@@ -1,0 +1,8 @@
+Operação,Dask,Koalas,Pandas,Ratio Dask/Pandas,Ratio Koalas/Pandas,Modin,Ratio Modin/Pandas, Vencedor
+Task 1 - Leitura,4.5869,10.6917,2.6898,1.71,3.97,13.918373719999863,5.17,Pandas
+Task 2a - Value Counts,0.3964,0.1854,0.084,4.72,2.21,1.3128705024719238,15.63,Pandas
+Task 2b - GroupBy,0.7616,0.1631,0.2433,3.13,0.67,3.144300699234009,12.92,Koalas
+Task 2c - Filtragem,0.7406,1.5335,0.1718,4.31,8.93,11.00859522819519,64.08,Pandas
+Task 3 - Join,2.4821,0.697,2.338,1.06,0.3,312.8696937561035,133.82,Koalas
+Task 4 - Cálculo,0.7859,0.2306,0.1014,7.75,2.27,51.565534353256226,508.54,Pandas
+Task 5 - Escrita,11.4636,32.113,6.6672,1.72,4.82,9.390803813934326,1.41,Pandas

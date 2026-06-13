@@ -1,0 +1,4 @@
+Modelo,Tipo,RMSE,MAE,R²,Accuracy,F1,Tempo treino (s)
+LogisticRegression (GPU cuML),Classificação,,,,0.9484,0.9484,30.04
+LogisticRegression (Iris GPU cuML),Classificação,,,,0.9333,0.9333,0.02
+XGBRegressor (GPU),Regressão,3.8332,1.1389,0.9507,,,70.66

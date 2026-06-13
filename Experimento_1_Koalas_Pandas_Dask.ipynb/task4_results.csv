@@ -1,0 +1,4 @@
+Biblioteca,Tempo de Cálculo (s),Performance
+Pandas,0.10141420364379883, VENCEDOR
+Dask (real),0.7859277725219727,---
+Koalas,0.23062610626220703,---

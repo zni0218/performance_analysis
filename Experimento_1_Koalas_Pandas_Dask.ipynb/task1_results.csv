@@ -1,0 +1,4 @@
+Biblioteca,Tempo de Leitura (s),Estratégia
+Pandas,2.6897950000000037,Eager — Carregamento total dos dados na ram
+Dask,4.586917665999977,Lazy  — Mapeamento rápido de metadados
+Koalas (Spark),10.691701383000009,"Lazy  — JVM + plano distribuído, não compensa para ficheiros pequenos"
